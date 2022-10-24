@@ -1,23 +1,17 @@
 # Oi <img height="30px" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif">, sou Layna Moraes
 
-<ul>
-  <li>
-    💻 Sou Desenvolvedora Front End em busca de oportunidades e colaboração em projetos.
-  </li>
+
+- 💻 Sou Desenvolvedora Front End em busca de oportunidades e colaboração em projetos.
   
-  <li>
-    💪 No momento estou trabalhando nas minhas hard e soft skills para conseguir a minha primeira vaga na área de tecnologia.
-  </li>
   
-  <li>
-    📚 Atualmente estou aprendendo <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>.
-  </li>
-</ul>
+- 💪 No momento estou trabalhando nas minhas hard e soft skills para conseguir a minha primeira vaga na área de tecnologia.
+  
+
+- 📚 Atualmente estou aprendendo **HTML**, **CSS** e **JavaScript**.
 
 <br>
 
-<img align="right" height="200" style="border-radius:50px;" src="https://uc906bb5265cf16289629467719e.previews.dropboxusercontent.com/p/thumb/ABrQn66Jxvujj5xoS4ADjCyHyb4Xjpo_bsX5wewzBzZDCyGCY0KBY1rQNg-_Jvwu_4eWz6aAMfYBy1jKdo-V_O2XXW4ej88JRy25Z3s_bsSRJbV0dElIloisxN8PWMfDMfY8DGNSR4MGsp6K1qX9ql1VJJZyxIX9L0pvBnl_MmQYviA-EJvEdahGUZSQPxNQUJDx1vq5pxOfhUrSixIx65PczEnbn4ENQd3snv5TV07fQiec0uO2hoGLz-xexOwiUEq9A--3hKKdgrubEe4HbVqL8QzTbiXkv8gaxJa-dwE7y8uzay02aujjs68kI4T6ARt9qE47dAtf1YaRj9RKQ_K1tIoDFyAEBnJc6ygSz9d-PnvjFTq6brnSMJ6M7tMtCWOOW2VexmBgJwZR3wRfaRUR/p.gif">
-
+<img align="right" height="200" style="border-radius:50px;" src="./assets/img/layna.gif" alt="Gif em desenho representando Layna">
 
 ## Contato
 <a href="https://www.linkedin.com/in/layna-moraes-92302b23b/" target="_blank">
