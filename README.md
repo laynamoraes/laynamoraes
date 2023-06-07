@@ -4,10 +4,10 @@
 - 💻 Sou Desenvolvedora Front End em busca de oportunidades e colaboração em projetos.
   
   
-- 💪 No momento estou trabalhando nas minhas hard e soft skills para conseguir a minha primeira vaga na área de tecnologia.
+- 💪 Estou trabalhando nas minhas hard e soft skills para conseguir uma vaga na área de tecnologia.
   
 
-- 📚 Atualmente estou aprendendo **HTML**, **CSS** e **JavaScript**.
+- 📚 Atualmente estou trabalhando com tecnologias do universo **ReactJS**.
 
 <br>
 
@@ -32,6 +32,7 @@
 ## Tecnologias
 
 <div style="display: inline_block">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
